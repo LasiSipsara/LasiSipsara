@@ -1,6 +1,9 @@
 <img src="Black Gold Minimalist Elegant Business LinkedIn Banner.png" >
 <h1 align="center">Hi 👋, I'm Lasini Sipsara</h1>
 <h3 align="center">Undergraduate in BSc. (hons) in Software Engineering</h3>
+<img  align="center" src="readmeAnime1.gif" height="200px" width="200px">
+
+
 <h3 align="left">About me:</h3>
 <p>Enthusiastic undergraduate in Software Engineering, passionate about self-learning and constantly expanding knowledge of the tech world. Enjoys enhancing soft skills through various extracurricular activities and eagerly looking for exciting opportunities to further develop skills and gain valuable industry experience.</p>
 
