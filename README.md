@@ -1,4 +1,4 @@
-<img src="Black Gold Minimalist Elegant Business LinkedIn Banner.png" >
+
 <h1 align="center">Hi 👋, I'm Lasini Sipsara</h1>
 <h3 align="center">Undergraduate in BSc. (hons) in Software Engineering</h3>
 <img  align="center" src="readmeAnime1.gif" height="200px" width="200px">
